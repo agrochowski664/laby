@@ -1,1 +1,1 @@
-print("test")
+print("Cześć jestem Adam")
